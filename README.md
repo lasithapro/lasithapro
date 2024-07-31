@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Generative Artificial Intelligence
 - 💞️ I’m looking to collaborate on developers , Software Engineers & Software Architects.
-- 📫 How to reach me `Lasitha Thilakarathna` in `Linkedin`
+- 📫 How to reach me : `Lasitha Thilakarathna` in `Linkedin`
 - 😄 Pronouns: Lasitha
 - ⚡ Fun fact: Learning & Full Stack Developing Aplications
 
